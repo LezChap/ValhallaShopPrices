@@ -8,16 +8,16 @@ Shop.Items["Base.BarbedWire"] = {
 	tab = Tab.Crafting, price = 150, quantity=10,
 }
 Shop.Items["Base.NailsBox"] = {
-	tab = Tab.Crafting, price = 50,
+	tab = Tab.Crafting, price = 75,  --increased from 50 to encourage looting/crafting
 }
 Shop.Items["Base.ScrewsBox"] = {
-	tab = Tab.Crafting, price = 50,
+	tab = Tab.Crafting, price = 75,  --increased from 50 to encourage looting/disassembly of tools
 }
 Shop.Items["Base.ElectricWire"] = {
-	tab = Tab.Crafting, price = 50, quantity=10,
+	tab = Tab.Crafting, price = 50, quantity=10,  --does this need a qty?
 }
 Shop.Items["Base.Wire"] = {
-	tab = Tab.Crafting, price = 50, quantity=10,
+	tab = Tab.Crafting, price = 50, quantity=10,  --does this need a qty?
 }
 Shop.Items["Base.WeldingRods"] = {
 	tab = Tab.Crafting, price = 100,
@@ -29,28 +29,28 @@ Shop.Items["Base.PlasterPowder"] = {
 	tab = Tab.Crafting, price = 100,
 }
 Shop.Items["Base.Dirtbag"] = {
-	tab = Tab.Crafting, price = 25,
+	tab = Tab.Crafting, price = 100,  --increased from 25 to encourage looting...and it's reusable
 }
 Shop.Items["Base.Gravelbag"] = {
-	tab = Tab.Crafting, price = 25,
+	tab = Tab.Crafting, price = 75,  --increased from 25 to encourage looting, and it's semi-reusable
 }
 Shop.Items["Base.Sandbag"] = {
-	tab = Tab.Crafting, price = 25,
+	tab = Tab.Crafting, price = 75,  --increased from 25 to encourage looting, and it's semi-reusable
 }
 Shop.Items["Base.Glue"] = {
-	tab = Tab.Crafting, price = 25,
+	tab = Tab.Crafting, price = 50,  --increased from 50 to encourage looting
 }
 Shop.Items["Base.IronIngot"] = {
-	tab = Tab.Crafting, price = 50,
+	tab = Tab.Crafting, price = 75,  --increased from 50 to encourage looting/dismanting tools
 }
 Shop.Items["Base.ScrapMetal"] = {
-	tab = Tab.Crafting, price = 50, quantity=10,
+	tab = Tab.Crafting, price = 100, quantity=10,  --increased from 25 to encourage looting/dismanting tools
 }
 Shop.Items["Base.DuctTape"] = {
 	tab = Tab.Crafting, price = 100, quantity=10,
 }
 Shop.Items["Base.Woodglue"] = {
-	tab = Tab.Crafting, price = 250, quantity=10,
+	tab = Tab.Crafting, price = 100, --removed qty: 10, reduced cost from 250 to 100.
 }
 Shop.Items["Base.EngineParts"] = {
 	tab = Tab.Crafting, price = 100, quantity=10,

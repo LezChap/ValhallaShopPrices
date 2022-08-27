@@ -131,38 +131,38 @@ Shop.Items["Base.Coffee"] = {  --should this be "Base.Coffee2"?  https://pzwiki.
 	tab = Tab.Food, price = 200,
 }
 Shop.Items["Base.Macandcheese"] = {
-	tab = Tab.Food, price = 50,
+	tab = Tab.Food, price = 250,
 }
 Shop.Items["Base.TVDinner"] = {
-	tab = Tab.Food, price = 100,
+	tab = Tab.Food, price = 175,
 }
 Shop.Items["Base.WhiskeyFull"] = {
-	tab = Tab.Food, price = 50,
+	tab = Tab.Food, price = 250,
 }
 Shop.Items["Base.Milk"] = {
-	tab = Tab.Food, price = 25,
+	tab = Tab.Food, price = 50,
 }
 Shop.Items["Base.Butter"] = {
-	tab = Tab.Food, price = 25,
+	tab = Tab.Food, price = 100,
 }
 Shop.Items["Base.PeanutButter"] = {
-	tab = Tab.Food, price = 25,
+	tab = Tab.Food, price = 250,
 }
 Shop.Items["Base.Vinegar"] = {
-	tab = Tab.Food, price = 25,
+	tab = Tab.Food, price = 75,
 }
 Shop.Items["Base.Bread"] = {
-	tab = Tab.Food, price = 20,
+	tab = Tab.Food, price = 75,
 }
 Shop.Items["Base.Yeast"] = {
-	tab = Tab.Food, price = 25, quantity=5,
+	tab = Tab.Food, price = 50, quantity=5,
 }
 Shop.Items["Base.Soysauce"] = {
-	tab = Tab.Food, price = 15,
+	tab = Tab.Food, price = 50,
 }
 Shop.Items["Base.Hotsauce"] = {
-	tab = Tab.Food, price = 15,
+	tab = Tab.Food, price = 50,
 }
 Shop.Items["Base.Icecream"] = {
-	tab = Tab.Food, price = 25,
+	tab = Tab.Food, price = 150,
 }

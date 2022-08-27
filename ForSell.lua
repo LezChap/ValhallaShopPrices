@@ -3,7 +3,7 @@ Shop.defaultPrice = 0
 
 Shop.Sell = {
 	["Base.Money"] = { price = 2},
-	["Base.CreditCard"] = { price = 3},
+	["Base.CreditCard"] = { price = 5},
 	["Base.BaseballBat"] = { priceBroken = 2},
 	["Base.Katana"] = { priceBroken = 5},
 	["Base.Machete"] = { priceBroken = 5},
